@@ -1,4 +1,4 @@
-package city.service;
+package models;
 
 /**
  * Stores employee data such as name, unique id, salary, and address.

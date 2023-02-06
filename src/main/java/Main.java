@@ -1,4 +1,5 @@
-package city.service;
+import models.Address;
+import models.Employee;
 
 /**
  * Examples of employees with addresses.

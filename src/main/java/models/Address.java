@@ -1,4 +1,4 @@
-package city.service;
+package models;
 
 /**
  * Contains an address for each employee.
